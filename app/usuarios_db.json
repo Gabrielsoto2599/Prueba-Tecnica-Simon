@@ -1,0 +1,10 @@
+[
+  { 
+    "id_clie": 1, 
+    "nombre": "GABRIEL SOTO", 
+    "cedula": "27966675", 
+    "genero": "M", 
+    "estadoCivil": "Soltero(a)", 
+    "fecha": "1999-08-25" 
+  }
+]

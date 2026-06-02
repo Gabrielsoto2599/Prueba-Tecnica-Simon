@@ -1,6 +1,6 @@
 # 🚀 Soto System - Registro Maestro B2B (Technical Test)
 
-Proyecto desarrollado para la prueba técnica de 42 horas. Se migró de un stack legado (ASP.NET 2015) a un entorno moderno con **Next.js 15+** y **Tailwind CSS**, priorizando la escalabilidad y una UI de alto impacto.
+Proyecto desarrollado para la prueba técnica de 48 horas. Se migró de un stack legado (ASP.NET 2015) a un entorno moderno con **Next.js 15+** y **Tailwind CSS**, priorizando la escalabilidad y una UI de alto impacto.
 
 ## 🛠️ Stack Tecnológico
 - **Frontend:** Next.js (App Router), TypeScript.

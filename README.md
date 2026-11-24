@@ -1,3 +1,5 @@
+<img width="1424" height="767" alt="image" src="https://github.com/user-attachments/assets/b2d1a8c9-f647-4ac7-baf1-4b464a0d0cc1" />
+
 # Soto System - Registro Maestro B2B (Technical Test)
 
 Proyecto desarrollado para la prueba técnica de 48 horas. Se migró de un stack legado (ASP.NET 2015) a un entorno moderno con **Next.js 15+** y **Tailwind CSS**, priorizando la escalabilidad y una UI de alto impacto.
